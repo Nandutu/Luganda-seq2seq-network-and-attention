@@ -1,0 +1,913 @@
+Cathedral	Lutikko
+Church	Kkanisa 
+Church	Kkeleziya
+Empty	Kikalu
+Interesting	Kinyuma
+Mosque	Muzigiti
+Nice	Kirungi
+Quiet	Kisiriikirivu
+Statue	Kibumbe
+Ticket	Tikiti
+University	Yunivasite
+Nightclub	Kirabo
+King	Kabaka
+President	Pulezidenti
+Prime minister	Katikkiro
+Minister	Minisita
+Member of Parliament	Mukyise mu Paalimenti
+Mayor	Meeya
+Chief	Mwami
+North	Bukiikakkono
+North	Mambuka
+South	Bukiikaddyo
+South	Maserengeta
+East	Buvanjuba
+West	Bugwanjuba
+Left	Kkono
+Right	Ddyo
+Up	Waggulu
+Down	Wansi
+What's the weather like?	Embeera y'obudde eri etya?
+Cloudy	bwa kikome
+Cold	bunnyogovu
+Flooding	bwa mataba
+Hot	bwa bbugumu
+Raining heavily	 	bwa nkuba y'amaanyi
+Raining lightly	bwa nkuba ya lutonnyeze
+Warm	bwa kibuguumirize
+Windy	bwa mbuyaga
+Clouds	Bire
+Dry season	Ebiseera by'omusana
+Earth	Nsi
+Fog	Lufu
+Moon	Mwezi
+Mud	Bisooto
+Rain	Nkuba
+Rainy season	Biseera by'enkuba
+Sky	Ggulu
+Smoke	Mukka
+Star	Mmunyeenye
+Storm	Mbuyaga
+Sun	Njuba
+Sunshine	Musana
+Bridge	Lutindo
+Cave	Mpuku
+City	Kibuga
+Country	Ggwanga
+County	Ssaza
+Forest	Kibira
+Harbour	Mwalo
+Hill	Kasozi
+Hot Spring	Nsulo ezookya
+Island	Kizinga
+Lake	Nnyanja
+Mountain	Lusozi
+Plain	Museetwe
+River	Mugga
+Sea	Nnyanja
+Stream	Mwala
+Swamp	Lutobazzi
+Town	Kibuga
+Valley	Kikko/kiwonvu
+Village	Kyalo
+Agriculture	Byabulimi
+Coffee	Mwanyi
+Corn	Kasooli
+Firewood	Nku
+Flower	Kimuli
+Fruit tree	Muti gw'ebibala
+Harvest	Kukungula
+Irrigation	Kufukirira
+Leaf	Kikoola
+Planting	Kusimba
+Rice	Muceere
+Rice	mupunga
+Sugar cane	Kikajjo
+Tea	Caayi
+Tobacco	Taaba
+Vanilla	Vanila
+Bird	Kinyonyi
+Buffalo	Mbogo
+Cat	Kapa
+Cat	pusi
+Chicken	Nkoko
+Chimpanzee	Zzike
+Cow	Nte
+Crocodile	Goonya
+Dog	Mbwa
+Fish	Kyenyanja
+Frog	Kikere
+Goat	Mbuzi
+Horse	Mbalaasi
+Leech	Kinoso
+Leopard	Ngo
+Lion	Mpologoma
+Monkey	Nkima
+Pig	Mbizzi
+Rooster	Sseggwanga
+Sheep	Ndiga
+Snake	Musota
+Spider	Nabbubi
+Zebra	Ntulege
+Butterfly	Kiwojjolo
+Cockroach	Kiyenje
+Fly	Nsowera
+Grasshopper	Nseenene 
+Mosquito	Nsiri
+Termites	Nkuyege
+White Ant	Nswa
+Mountain climbing	Kulinnya nsozi
+Fishing	Kuvuba
+Hunting	Kuyigga
+Swimming	Kuwuga
+Knife	Kambe
+Lamp	Ttaala
+Light	Kitangaala
+Mat	Kiwempe
+Mat	omukeeka
+Rope	Muguwa
+Stove	Sitoovu
+Tent	Weema
+flashlight	Tooci 
+Torch	Tooci
+GoodMorning	Wasuze otya nno?
+Good afternoon	Osiibye otya nno?
+Good Evening	Osiibye otya nno?
+Hi	Ki kati 
+How are you?	Oli Otya
+I am ok	Gyendi
+Have nice day	Siiba bulungi  
+Good night	Sula bulungi
+goodbye to one person	Weeraba
+goodbye to more than one person	Mweraba
+Welcome to one or several people	Tukusanyukidde
+See you later	Tunaalabagana
+Please	Mwattu
+Thank you	Weebale
+Thank you very much	Weebale Nnyo
+Excuse me in order to get someone’s attention	Owange
+Please sit down	Mwattu tuula wansi
+Pardon me, what did you say?	Wangi?
+Pardon me, what did you say?	Ogamby Ki?
+I am sorry	Nsonyiwa
+OK	Kale
+No thanks	Nedda
+I do not know	Simanye
+What time is it?	Sawa mmeka?
+How much is it?	Mmekka Ssente?
+I do not have any money	Sirina Sente
+I love you	Nkwagala
+I am	Nze 
+Madam	Nyabo
+Sir	Ssebo
+I am angry	ndi munyiivu
+I am cold	mpulira empewo
+I am full	ndi mukkufu
+I am happy	ndi musanyufu
+I am hot	mpulira ebbugumu
+I am hungry	Enjala ennuma
+I am sad	ndi munakuwavu
+I am scared	ntidde
+I am sick	ndi wulwadde
+I am thirsty	ennyonta ennuma
+I am tired	nkooye
+I am worried	ndi mweraliikirivu
+Do you speak English?	Omanyi olungereza
+Yes, I do	Weewawo
+No, I do not	Nedda
+Does anyone here speak English?	Wano waliwo amanyi olungereza?
+Do you understand?	Otegeera?
+I understand	Ntegeera
+I don’t understand	Sitegeera
+Please speak slowly	Ekigambo ekyo kimpandiikire
+I like	Njagala
+I do not like	Saagala
+See you later	Tunaalabagana
+Please	Mwattu
+Please shut the door	Mwattu ggalawo oluggi
+Please clean my room	Mwattu longoosa ekisenge kyange
+Please come in	Mwattu yingira
+Please sit down	Mwattu tuula wansi
+You are welcome	Kale
+Excuse me	Owange
+Pardon?	Wangi?
+Pardon?	Ogambye ki?
+What is your name	Erinnya lyo ggwe ani?
+My name is	Erinnya lyange nze
+Mr	Mwami
+Mrs	Mukyala 
+How old are you?	Olina emyaka emeka?
+I am	Nina
+What is your occupation?	Okola mulimu ki? 
+What is your religion?	Oli wa ddiini ki? 
+This is my	Ono ye
+Do you have any brothers or sisters	Olina bagandabo oba bannyoko?
+Are you married?	Oli mufumbo?
+I am not married	Siri mufumbo
+I am married	Ndi mufumbo
+Do you have any children?	Olina abaana?
+I don't have any children	Sirina baana
+I don't have any children yet	Sinnafuna baana
+I have	Nina
+One son	Omutabani omu
+One daughter	Omuwala omu
+Three sons	Abatabani basatu
+Two daughters	Abawala babiri
+Do you speak English?	Omanyi olungereza?
+Yes, I do	Weewawo
+No, I do not	Nedda
+I can only speak a little Luganda	Oluganda mmanyi lutonotono
+Does any one here speak english?	Wano waliwo amanyi olungereza?
+What does this mean?	Kino kitegeeza ki?
+Please speak slowly!	Mwattu yogera mpolampola
+Write that word down for me	Ekigambo ekyo kimpandiikire
+Please repeat it	Mwattu kiddemu
+Please translate for me	Mwattu nzivuunulira
+What are your hobbies?	Biki by'oyagala okukola?
+I like	Njagala
+I do not like	Saagala 
+Look!	Laba!
+Listen!	Wulira!
+I am ready	Nneetegese
+Slow down!	Genda mpola!
+Hurry up!	Yanguwa!
+Come here	Jangu wano
+Go away!	Genda eri!
+Watch out!	Wegendereze!
+Help me	Nnyamba
+It is possible	Kisoboka
+It is not possible	Tekisoboka
+I forgot	Neerabidde
+It is important	Kikulu
+It is not important	Si kikulu
+What is the time?	Saawa mmeka?
+Where are you going?	Ogenda wa?
+What is this called?	Kino kiyitibwa kitya?
+What is that?	Ekyo kiki?
+Can I take a photo of you?	Nsobola okukuba ekifananyi?
+Can I take a photo of that?	Ekyo nsobola okukikuba ekifananyi?
+Do you live here?	Obeera wano?
+It doesn't matter	Ssi kigambo 
+It doesn't matter	Tofaayo
+Discos	Disiko
+Film	Firimu
+Going shopping	Kugenda mu maduuka
+Music	Nnyimba
+Playing games	Kuzannya mizannyo
+Playing sports	Kuzannya mizannyo
+Reading books	Kusoma bitabo
+Swimming	Kuwuga
+Jogging	Kudduka
+Running	Kudduka
+Biking	Kuvuga ggaali
+Photography	Kukuba bifaananyi
+To play soccer	Kuzannya kapiira
+To play tennis	Kuzannya tena
+Travelling	Kutambulako
+going out	Kutambulako
+Watching TV	Kulaba Tivvi 
+Bus station	Baasi paaka
+Bus stop	Siteegi ya baasi
+Taxi park	Paaka ya takisi
+Airport	Ekisaawe ky'ennyonyi
+Bus	Baasi
+Train	Eggaali y'omukka
+Aeroplane	Ennyonyi 
+Is it far?	Kiri wala?
+Is it near?	Kiri kumpi?
+Is it near here?	Kiri kumpi na wano?
+Go straight ahead!	Genda butereevu!
+Turn left	Kyama ku kkono
+Turn right	Kyama ku ddyo
+At the traffic lights	Ku bitaala
+At the junction	Mu masang'aanzira
+In front of	Mu maaso ga
+Next to	Okuddirila
+Behind	Emabega
+North	Bukiikakkono
+North	Mambuka
+South	Bukiikaddyo
+South	Maserengeta
+East	Buvanjuba
+West	Bugwanjuba
+North west	Bukiikakkono bwa Bugwanjuba
+North east	Bukiikakkono bwa Buvanjuba
+South west	Bukiikaddyo bwa Bugwanjuba
+South east	Bukiikaddyo bwa Buvanjuba 
+Do you have any flights to Nairobi?	Mulina ennyonyi ezigenda e Nairobi?
+What days are the flights?	Ennyonyi zigenda ku nnaku ki?
+How much is a one-way ticket?	Tikiti ey'amagenda gokka ya mmeka?
+How much is a return ticket	Tikiti ey'amagenda n'amadda ya mmeka?
+Is there a flight to Harare on Monday?	Waliwo ennyonyi egenda e Harare ku Bbalaza?
+What time is the flight?	Ennyonyi esitula ssaawa mmeka?
+Do you have any direct flights?	Mulina ennyonyi ezigenda obutereevu?
+How many stops does the plane make?	Ennyonyi eyimirira emirundi emeka?
+What is the arrival time?	Etuuka ssaawa mmeka?
+When are the return flights?	Ennyonyi ezikomawo zivaayo ddi?
+What is the baggage allowance	Mukkiriza emigugu gyenkana wa?
+I would like to buy a return ticket	Njagala kugula tikiti ey'amagenda n'amadda.
+I will be leaving on Friday	Nja kugenda ku Lwakutaano
+I will return after two weeks	Nkomawo oluvannyuma lwa sabbiiti bbiri
+What time do I have to be at the airport?	Ku kisaawe nina kubeerayo ku ssaawa mmeka?
+Where can I buy a bus ticket?	Tikiti ya baasi nnyinza kugigula wa?
+Is there an overnight bus?	Waliwo baasi egenda eggulolimu?
+What time does the bus arrive?	Baasi etuuka ku ssaawa mmeka?
+Will the bus stop at a restaurant?	Baasi eneyimirila awali eby'okulya?
+I would like to book a seat for Friday	Njagala kwekwata kifo kya ku Lwakutaano
+How long does it take to get there?	Kitwala bbanga ki okutuukayo?
+I want to get off here!	Njagala kuviiramu wano!
+What time is the next bus?	Baasi eddako ya ku ssaawa mmeka?
+What time is the last bus?	Baasi esembayo ya ku ssaawa mmeka?
+Please give me two tickets	Mwattu mpa tikiti bbiri
+Is this seat free?	Kino ekifo kirimu omuntu?
+This seat is taken	Kino ekifo kirimu omuntu
+Would you mind if I open the window?	Ofaayo singa nzigulawo eddirisa?
+What is this station called?	Eno sitenseni bagiyita batya?
+What station is this?	Eno sitenseni ki?
+What is the next station	Sitenseni ki eddako?
+Does that include the luggage?	N'emigugu ogibaliddemu?
+Where can I rent a car?	Wa wensobola okupangisa emmotoka?
+How much is it daily?	Ssente mmeka buli lunaku?
+How much is it weekly?	Ssente mmeka buli wiiki?
+Does that include insurance?	Okwo kuliko eza yinsuwa?
+Where is the next gas station?	Petulo sitenseni eddako eri ludda wa?
+Where is the next petrol station?	Petulo sitenseni eddako eri ludda wa?
+Please fill up the tank	Mwattu jjuza tanka
+The battery is flat	Baatule nfu
+The battery is dead	Baatule nfu
+The radiator is leaking	Ladiyeta ettonnya
+I have a flat tire	Nina omupiira ogwaabise
+I have a flat tyre	Nina omupiira ogwaabise
+It is not working	Tekikola
+The engine is dead	Yingini nfu
+Here is fine, thank you	Wano wamala, webale nnyo.
+The next street, please	Ku luguudo oluddako mwattu
+Continue!	Weyongereyo!
+Please slow down	Mwattu genda mpolampola
+Please hurry	Mwattu yanguwa
+Please wait here	Mwattu lindira wano
+I'll be right back	Nkomawo mangu
+How much does it cost?	Kigula ssente mmeka?
+Won't you take less?	Tosalako?
+That's too much money	Ezo ssente ziyitiridde
+How about my change?	Ate kyengi wange? 
+The plane is delayed	Ennyonyi ekeereye
+The plane is cancelled	Ennyonyi esaziddwamu
+The plane is on time	Ennyonyi eri ku budde
+The plane is on schedule	Ennyonyi eri ku budde
+How long will it be delayed?	Enekeerewa kumala bbanga ki?
+Do I need to change buses?	Neetaaga okukyusa baasi?
+You must change	Oteekwa okukyusa
+How long does the trip take?	Olugendo lutwala bbanga ki?
+I am lost	Mbuze
+Where is the nearest taxi park	Paaka ya taxi eri okumpi eri ludda wa?
+Where can I hire a bicycle?	Wa wensobola okupangisa eggaali? 
+Where can I hire a bicycle?	Wa wensobola okupangisa Bodaboda? 
+Where do I get off to go to the bank?	Wa wenviiramu okugenda ku banka?
+Where are we now?	Kati tuli ludda wa?
+Where is the restroom?	Buyonjo eri ludda wa?
+cheap hotel	Wooteri eya layisi
+nice hotel	Wooteri ennungi
+inexpensive hotel	Wooteri ey'omuwendo omusaamusamu
+I've already found a hotel	Nafunye dda wooteri
+What is the address?	Ndagirilo ki?
+Write down the address please	Endagiliro giwandiike mwattu 
+for one person	kya muntu omu.
+for two people	kya bantu babiri.
+with a bathroom	omuli ekinaabiro
+with a fan	ekirina faani
+with a fan	ekirina ekiwujjo
+with a TV	ekirina tivvi.
+with a window	ekirina eddirisa.
+one day	olunaku lumu.
+two weeks	sabbiiti bbiri
+I am going to live here for a year	Ng'enda kubeera wano okumala omwaka gumu
+Is there a room available?	Olinawo ekisenge?
+How much does it cost per day?	Kya ssente mmeka buli lunaku?
+What is the daily rate?	Ssente mmeka buli lunaku
+Does the price include breakfast?	Ssente ziriko n'ekyenkya?
+Are children allowed?	Abaana bakkirizibwa?
+Is there extra cost for children?	Abaana basasula ssente endala?
+Can I see the room?	Ekisenge nsobola okukiraba?
+I don't like this room	Kino ekisenge sikyagala
+Do you have a better room?	Olina ekisenge ekikisingako obulungi?
+I'll take this room	Nja kutwala kino ekisenge
+I'm not sure how long I'm staying	Simanyi bbanga ki lyennaamalawo
+Should I leave my key at the reception?	Nsobola okuleka ekisumuluza kyange awatuukirwa? 
+Where can I wash my clothes?	Wa wensobola okwoleza engoye zange?
+Please wash these clothes for me	Mwattu njoleza engoye zino
+When will they be ready?	Onoozimala ddi?
+Can I use the telephone?	Nsobola okukozesa essimu?
+Please spray my room	Mwattu fuyira ekisenge kyange
+There are mosquitoes in it	Kirimu ensiri
+Please change my sheets	Mwattu kyusa essuuka zange
+My room needs to be cleaned	Ekisenge kyange kyetaaga okuyonja
+Excuse me, I've got a problem here	Nsonyiwa, nina ekizibu
+The window is broken	Eddirisa limenyefu
+I can't open the door	Sisobola kuggulawo luggi
+I can't open the window	Sisobola kuggulawo ddirisa
+I've locked myself out	Neesibidde ebweru
+The toilet is broken	Akayu tekakola
+Can you get it fixed?	Bayinza okukikola?
+The room smells	Ekisenge kiwunya
+It's too dark	Enzikiza eyitiridde
+It's too noisy	Oluyogaano luyitiridde 
+I am leaving this hotel	Wooteri ngenda kugivaamu
+Please prepare my bill	Mwattu tegeka lisiiti yange
+Please prepare our bill	Mwattu tegeka lisiiti yange
+Call me a taxi please	Mpitira takisi mwattu
+credit card	kaadi
+check	kyeke
+cheque	kyeke
+this afternoon	olweggulo lwa leero
+this evening	akawungeezi ka leero
+tonight	ekiro kya leero
+bottled water	amazzi g'omuccupa
+boiled water	mazzi amafumbe
+cold water	mazzi agannyogoga 
+What time does it open?	Kiggulawo saawa mmeka?
+What time does it close?	Kiggalawo ku saawa mmeka?
+Is it still open?	Kikyali kiggule?
+What time do banks open?	Banka ziggulawo ssaawa mmeka?
+What time does the bank open?	Banka eggulawo ssaawa mmeka?
+Where can I cash a travellers' cheque?	Wa w'ensobola okuwanyisiza kyeke zange?
+What is the exchange rate?	Ssente zikyusiza ku mmeka?
+Has any money arrived for me?	Waliwo ssente zange ezizze?
+How long will it take to arrive?	Zinatwala bbanga ki okutuuka?
+Bank clerk	Kkalaane wa banka
+Bill, bank note	Lupapula lwa ssente
+Branch	Ettabi
+Commission	Kamiisoni
+Endorsement	Kussaako mukono
+ID card	Kitambulizo
+Signature	Omukono 
+Where is the tourist office?	Wofiisi y'abalambuzi eri luddawa?
+What is that building?	Ekyo kizimbe ki?
+What is this monument?	Kino kijjukizo kyaki?
+Who lived there?	Ani yabeeranga awo?
+Do you have a local map?	Olina maapu ya wano?
+May I take photographs?	Nsobola okukuba ebifaananyi?
+May I take your photograph?	Nsobola okukukuba ekifaananyi?
+I will send you the photograph	Ekifaananyi nja kukikuweereza
+Could you take a photograph of me?	Osobola okunkuba ekifaananyi?
+At what theatre can I see a play?	Wa wenyinza okulaba omuzannyo
+How did you enjoy the play?	Omuzannyo gwakunyumidde?
+I'm interested in music	Njagala ennyimba
+Member of Parliament	Mukyise mu Paalimenti
+Are there any tourist attractions around here?	Wano waliwo ebisikiriza abalambuzi?
+Is it safe to swim here?	Wano walungi okuwugira?
+There are two caves here	Wano waliwo empuku bbiri
+Where is the nearest town?	Ekibuga ekiri okumpi kiri ludda wa?
+Is it safe to climb this mountain?	Luno olusozi lulungi okulinnya?
+Is there a hut up there?	Engulu eyo eriyo akasiisira?
+Help!	Munnyambe!
+It's an emergency!	Kizibu kya mbagirawo
+There's been an accident!	Waguddewo akabenje
+Call a doctor!	Yita omusawo!
+Call an ambulance!	Yita ambyulensi!
+I've been robbed!	Banzibye!
+Stop!	Yimirira!
+Go away!	Genda eri!
+I'll get the police!	Kampite abasirikale!
+I'll get the police!	Kampite poliisi!
+Watch out!	Wegendereze!
+Thief!	Omubbi!
+Fire!	Omuliro!
+my bag	Ensawo yange
+my suitcase	Keesi
+my suitcase	sutikesi
+my suitcase	sanduuko yange
+my money	Sente zange
+my travellers' cheque	Kyeke zange
+my passport	Paasipoti
+my passport	Kitambulizo kyange
+I am ill	Ndi mulwadde
+I am lost	Mbuze
+Where is the police station?	Poliisi siteseni eri ludda wa?
+Where are the toilets?	buyonjo buli ludda wa?
+Where are the toilets?	Obuyu buli ludda wa?
+Could you help me please?	Mwattu osobola okunnyamba?
+Could I please use the telephone?	Mwattu nsobola okukozesa ku ssimu?
+I speak english	Njogera olungereza
+I have medical insurance	Nina yinsuwa y'obulwadde
+I didn't realize that I was doing anything wrong	Saategedde nti kyembadde nkola kikyamu
+I didn't do it	Saakikoze
+I'm sorry.	Nsonyiwa. 
+I apologise.	Nnetonze.
+Where is a	eri ludda wa
+restaurant	Wooteri
+cheap restaurant	Wooteri ey'emiwendo emisaamusaamu
+good restaurant	Wooteri ennungi
+We would like a table for five	Twagala emmeeza ya bataano.
+Is there a table for three available?	Olinawo emmeeza etuuza abasatu?
+the menu	menu
+a glass of water	egiraasi y'amazzi
+the bill	lisiiti
+eggs	magi
+meat	nnyama
+pork	mbizzi
+milk	mata
+This isn't cooked properly	Eno teyidde bulungi
+Not too spicy please	Ebirungo bitonotono mwattu
+This food is delicious	Eno emmere ewooma!
+I don't want that one	Saagala ekyo
+Please give me another one	Mwattu mpa endala
+Breakfast	Ekyenkya
+Lunch	Ekyemisana
+Dinner	Ekyeggulo
+Beef	Nnyama ya nte
+Chicken	Nyama ya nkoko
+Mutton	Nyama ya ndiga
+Lamb	Nyama ya ndiga
+Pork	Nyama ya mbizzi
+Goat meat	Nnyama ya mbuzi
+Fish	Kyennyanja
+Catfish	Ssemutundu
+Eel	Nsonzi
+Mudfish	Mmale
+Nile perch	Mpuuta
+Snout fish	Kasulu
+Sprat	Nkejje
+Tilapia	Ngege
+Avocado	Kedo
+Avocado	Wova
+Avocado	Wovakedo
+ripe Banana	Menvu
+Gooseberry	Ntuntunu
+Jackfruit	Ffene
+Guava	Ppeera
+Lemon	Nniimu
+Mango	Muyembe
+Melon	Wujju
+Orange	Mucungwa
+Pawpaw	Paapaali
+Peanuts	Binyebwa
+Pineapple	Nnaanansi
+Passion Fruit	Katunda
+Plantain	Gonja
+Raspberry	Nkenene
+Sugar cane	Kikajjo
+Beans	Bijanjaalo
+Cabbage	Mboga
+Carrot	Kalati
+Corn	Kasooli
+Eggplant	Bbiringanya
+Mushroom	Katiko
+Onion	Katungulu
+Potato	Lumonde
+Powdered Vegetable	Ggobe
+Pumpkin	Nsujju
+Spinach	Doodo
+Tomato	Nnyaanya
+green Banana	Matooke
+Sweet Potato	Lumonde
+Cassava	Muwogo
+Corn flour	Kawunga
+Millet flour	Kalo
+Yam	Ndaggu
+Yam	Jjuuni
+Yam	Balugu
+corn Porridge	Buugi
+millet Porridge	Busera
+Chilli	Kaamulali
+Cinnamon	Budalasini
+Curry powder	Bunzaali
+Garlic	Katungulu Ccumu
+Ginger	Ntangawuzi
+Cooking Oil	Butto
+Pepper	Kaamulali
+Salt	Munnyo
+Sugar	Sukaali
+Beer	Bbiya
+Juice	Mubisi
+Milk	Mata
+Pop	Sooda
+Coffee	Kaawa
+Tea	Caayi
+with milk	owa mata
+without milk	okutali mata
+with sugar	omuli sukaali
+without sugar	omutali sukaali
+Boiled	Bitokose
+Fried	Bisiike
+Grilled	Byokye
+Smoked	Bikalirire
+Cooked vegetables with peanut sauce	Enva z'ebinyeebwa
+Roasted beef	Nyama y'ente enjokye
+Roasted pork	Nyama y'embizzi enjokye
+Steamed and mashed bananas	Matooke g'omuwumbo
+Bitter	Kukaawa
+Boil	Kutokosa
+Boiled	Bitokose
+Cold	Kunnyogoga
+Cook	Kufumba
+Delicious	Kuwooma
+Eat	Kulya
+Fry	Kusiika
+Slice	Kusalako
+Sweet	Kuwoomerera
+Uncooked	Sikifumbe
+Unripe	Ssikyengevu
+Unripe	Kibisi
+We're in a hurry please	Mwattu tuli mu bwangu
+I'm sorry but this table is reserved	Nsonyiwa naye emmeeza eno nekwate
+Please bring our food quickly	Emmere yaffe gyanguyeeko.
+May we have our bill please?	Osobola okutuwa lisiiti yaffe mwattu?
+barber	kinyoozi
+bookshop	edduuka ly'ebitabo
+grocery	edduuka
+hair dresser	omusibi w'enviiri
+market	akatale
+tailor	omutunzi
+that basket	ekisero ekyo
+this bottle	eccupa eno
+Buttons	Mapeesa
+Combs	Bisanirizo
+Jar	Kicupa
+Mosquito net	Katimba ka nsiri
+Needle	Mpiso
+Rope	Muguwa
+Scissors	Makansi
+Shoelaces	Buguwa bw'engatto
+Suitcase	Ssanduuko
+Swimsuit	Engoye omuwugirwa
+Thread	Wuzi
+Towel	Tawulo
+Can I bargain?	Nsobola okulamuza?
+That's very expensive	Ogwo omuwendo munene
+I don't have much money	Sirina sente nnyingi
+Can you lower the price?	Osoloba okussa omuwendo?
+I'll give you	Nja kuwa	
+No more than	Sisukka	
+Bone	Gumba
+Bracelet	Kakomo
+Carving	Ekibajje
+Earrings	Mpeta za ku matu
+Gold	Zaabu
+Gold	Zawabu
+Handicraft	Eby'emikono
+Horn	Jjembe
+Ivory	Ssanga
+Leather	Ddiba
+Necklace	Ekyomubulago
+Paintings	Ebifaananyi ebisiige
+Pottery	Bibumbe
+Ring	Mpeta
+Silver	Ffeeza
+Souvenir	Ekyokwejjukiza
+Statue	Kibumbe
+Stone carvings	Ekibajje mu jjinja
+Woodcarving	Ekibajje mu muti
+Cardigan	Sweta
+Clothing	Ngoye
+Dress	Kwambala
+Hat	Nkufiira
+Jacket	Kooti
+Shirt	Saati
+Shorts	Mpale nnyimpi
+Shoes	Ngatto
+Skirt	Sikaati
+Slippers	Sapatu
+Socks	Sitokisi
+Tie	Ttaayi
+Trousers	Mpale mpaanvu
+T-shirt	Tisaati
+Underpants	Obuwale bwomunda
+Underwear	Akawale komunda
+Cotton	Pamba
+Leather	Ddiba
+Silk	Ssirika
+Wool	Wuulu
+Ballpoint pen	Boolopeni
+Dictionary	Nkuluze
+Envelopes	Mabaasa
+Magazine	Akatabo k'amawulire
+Map	Maapu
+Newspaper	Lupapula lwa mawulire
+Novel	Katabo
+Writing paper	Lupapula lw'okuwandiikako
+Baby's bottle	Ccupa y'abaana
+Baby powder	Pawuda w'abaana
+Condoms	Kondomu
+Contraceptives	Ebigema okuzaala
+Moisturising Cream	Bizigo
+Mousquito repellant	Eddagala ly'ensiri
+Razor blade	Eggirita
+Razor blade	Akawembe
+Toilet paper	Bikookooma
+Toothbrush	Akasenya, Omuswaaki
+Toothpaste	Eddagala ly'amannyo
+I'd like a film for this camera	Njagala filimu ya kamera eno
+How much is it for processing and developing?	Sente meka okwooza ebifaananyi?
+When will it be ready?	Onobimaliriza ddi?
+Do you repair cameras here?	Wano oddaabiririzaawo kamera?
+black and white film	Filimu etali ya langi
+Camera	Kamera
+Colour film	Firimu eya langi
+To Develop	Okwoza
+Film	Firimu
+Photograph	Kifaananyi
+Cigarettes	Ssegereti
+Cigarettes	Sigala
+Matches	Kibiriiti
+Pipe	Mmindi
+Tobacco	Taaba
+A packet of cigarettes, please	Pakiti ya sigala mwattu
+Do you have a light?	Olina ekibiriiti?
+Gramme	Gulaamu
+Kilogramme	Kilo
+meter	Mmita
+Kilometer	Kilomita
+litre	Lita
+pound	Latiri
+mile	mayiro
+foot	fuuti
+Big	Kinene
+Bigger	Kineneko
+Biggest	Kinene okusinga
+Too big	Kinene okuyitirira
+Very big	Kinene nnyo
+Small	Kitono
+Smaller	Kitonoko
+Too small	Kitono okuyitirira
+Very small	Kitono nnyo
+Enough	Kimala
+More	Kusingako
+Heavy	Kizito
+Light	Kuwewuka
+Long	Buwanvu
+Short	Bumpi
+Tall	Buwanvu
+Wide	Bugazi
+Narrow	Bufunda
+Black	Nzirugavu
+Blue	Bbululu
+Brown	Kitaka
+Colour	Langi
+Dark	Nkwafu
+Gray	Kivuvvu Green	
+Gray	Kiragala
+Light	Ntangaavu
+Orange	Kacungwa
+Purple	Kakobe
+Red	Myuufu
+White	Njeru
+Yellow	Kyenvu
+Big	Kinene
+Buy	Kugula
+Export	Okuwereza ebyamaguzi ebweru w'eggwanga
+Import	Okuyingiza ebintu okuva munsi ez'ebweru
+Like	Kwagala
+Made in country	Kyakolebwa mu nsi
+Old	Kikadde
+Order	Kulagiriza
+Parcel	Kitereke
+Prefer	Okwagala ekimu okusinga ekirala
+Quality	Obulungi
+Quantity	Obungi
+Round	Kyetoloovu
+Sell	Kutunda
+Small	Kitono
+Style	Musono
+Want	Kwagala
+I'm just looking	Ndabako bulabi
+What is the normal price of this?	Omuwendo ogwa bulijjo sente meka?
+Can you write down the price?	Osobola okuwandiika wansi omuwendo?
+Do you accept credit cards?	Mukkiriza kaadi?
+May I try this on?	Nsobola okukyegezaamu
+Do you have others?	Olina ebirala?
+We don't have any	Tetulina
+Can I see it?	Nsobola okukiraba?
+I don't like it	Sikyaagala
+I will take it	Nja kukitwaala
+I'd like to look at blouses	Njagala kulaba ku bbulawuzi
+How much is this?	Kino sente mekka?
+Where are these goods made?	Bino bikolebwa wa?
+Do I need insurance?	Neetaaga yinsuwa?
+Free of charge	Kya bwereere
+Where is a	ali ludda wa
+dentist	Omusawo w'amannyo
+doctor	Omusawo
+hospital	Eddwaaliro
+medicine	Eddagala
+pharmacy	Famase
+I'm suffering from	Ndi mulwadde wa	
+I feel nauseous	Emmeeme ensinduukirira
+I keep vomiting	Nsesema buli kiseera
+I feel dizzy	Nina kammunguluze
+Could I see a female doctor?	Nsobola okulaba omusawo omukazi?
+Could I see a doctor for females?	Nsobola okulaba omusawo w'abakazi?
+I'm pregnant	Ndi lubuto
+I'm on the pill	Ndi ku ddagala erigema okuzaala
+I haven't menstruated for two weeks	Silwadde mwezi okumala wiiki bbiri
+I've been vaccinated	Bansala emikono
+I have my own syringe	Nina empiso yange
+I've had a blood test	Bankebedde omusaayi
+I need a blood test	Netaaga okunkebera omusaayi
+Please use this syringe	Mwattu kozesa eno empiso
+How many times a day?	Emirundi emeka olunaku?
+Asthma	Asima
+Cholera	Kolera
+Cold	Ssennyiga
+Cough	Kukolola
+Cough	Kifubaa
+Diarrhoea	Kuddukana
+Fever	Musujja
+Flu	Yegu
+Headache	Mutwe
+High Blood Pressure	Pulessa
+Infection	Kukwatibwa obulwadde
+Itch	Kusiiwa
+Lice	Nsekere
+Malaria	Musujja gw'ensiri
+Pain	Bulumi
+Rabies	Obulwadde bw'ensolo
+Stomachache	Kulumwa olubuto
+Tuberculosis	Kafuba
+Venereal Disease	Endwadde z'obukaba
+Wound	Ekiwundu
+Arm	Mukono
+Back	Mugongo
+Bone	Gumba
+Bone	Magumba
+Breast	Mabeere
+Breast	Bbeere
+Chest	Kifuba
+Chin	Kalevu
+Ear	Matu
+Ear	Kutu
+Eye	Liiso
+Eye	Maaso
+Face	Maaso
+Finger	Ngalo
+Foot	Kigere
+Hands	Mikono
+Hands	Mukono
+Head	Mutwe
+Heart	Mutima
+Hip	Kikugunyu
+Kidney	Nsigo
+Leg	Kugulu
+Lips	Mimwa
+Liver	Kibumba
+Lung	Mawuggwe
+Mouth	Kamwa
+Neck	Nsingo
+Nose	Nnyindo
+Pancreas	Nnuuni
+Shoulder	Kibegabega
+Skin	Lususu
+Stomach	Lubuto
+Toes	Bugere
+Tooth	Linnyo
+Aspirin	Asipirini
+Penicillin	Penisirini
+Quinine	Kwiinini
+Sleeping pills	Amakerenda ageebasa
+Tablet	Kerenda
+Vitamins	Vitamini
+Accident	Akabenje
+Bandage	Bandeegi
+Bleed	Kujja musaayi
+Blood	Musaayi
+Break	Kumenya
+Broken	Kumenyeka
+Breath	Kussa
+Careful	Kwegendereza
+Contraceptive	Eddagala erigema okuzaala
+Faeces	Ebyayi
+Health	Ebyobulamu
+Injection	Mpiso
+Menstruation	Omwezi
+Poisonous	Kyabutwa
+Urine	Omusulo
+Vomit	Kusesema
+I need medicine for	Njagala eddagala ly'
+These tablets must be taken three times a day	Buno obukerenda bwakutwalibwa emirundi esatu buli lunaku
+Please shake the bottle before taking	Sunda eccupa nga tonnanywa
+My tooth hurts	Erinnyo linnuma
+I've broken a tooth	Erinnyo lyabongose
+My gums hurt	Ekibuno kinnuma
+I don't want it extracted	Ssaagala ligyibwemu
+Please give me an anaesthetic	Mwattu nsirisa
+Please take us to a Hospital	Mwattu tutwale ku ddwaliro
+Please buy medicine for me at the pharmacy	Mwattu ngulira eddagala ku famase
+My leg is broken	Okugulu kwange kwamenyese
+I need a receipt for my insurance	Netaaga lisiiti olwa yinsuwa
+What time is it?	Ssaawa mmeka?
+It is two o'clock	Ssaawa munaana
+It is a quarter to four	Ebula kumi na ttaano okuwera ekumi
+It is a qaurter past one	Edakiika kumi na ttaano eziyise ku musanvu
+It is ten past four	Kumi ne ddakiika kumi
+It is four thirty.	Kumi kitundu.
+an hour	Ssaawa emu
+One hour	Ssaawa emu
+Two hours	Ssaawa bbiri
+Three hours	Ssaawa satu
+What the date today?	Ennaku z'omwezi mmeka olwa leero?
+It is 31st July	Ziri asatu mu lumu ogwomusanvu
+When did you arrive in Uganda?	Watuuka ddi mu Yuganda?
+Two weeks ago	Sabbiiti bbiri eziyise
+How long will you stay?	Onobeerawo kumala banga ki?
+I'll be staying about two weeks	Nja kumala wiiki nga bbiri
+
